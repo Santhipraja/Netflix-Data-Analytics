@@ -18,3 +18,6 @@ requirements.txt
   pandas
   plotly
   numpy
+
+How to run the dashboard file ?
+    streamlit run dashboard/app.py
