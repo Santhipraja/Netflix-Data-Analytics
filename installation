@@ -1,0 +1,20 @@
+netflix_project
+│
+├── data
+├── etl
+├── dashboard
+│
+├── requirements.txt
+└── README.md
+
+
+
+How to Install Requirements
+
+ pip install -r requirements.txt
+
+requirements.txt
+  streamlit
+  pandas
+  plotly
+  numpy
